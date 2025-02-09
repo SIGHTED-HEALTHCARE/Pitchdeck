@@ -1,4 +1,4 @@
-# Pitchdeck
+# SIGHTED Pitchdeck
 
 Demo
 https://youtu.be/fiG3lTwnomE
