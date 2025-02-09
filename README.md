@@ -5,8 +5,7 @@
 ## **SIGHTED Pitch Deck**  
 
 ### **Slide 1: Title Slide**  
-- **Project Name**: **S.I.G.H.T.E.D. (Secure Information Guarding Healthcare Through Encrypted Data)
-**  
+- **Project Name**: **S.I.G.H.T.E.D. (Secure Information Guarding Healthcare Through Encrypted Data)**  
 - **Tagline**: *“Privacy-Preserving Healthcare Data Exchange with Blockchain and Zero-Knowledge Proofs”*  
 - Presented by: Lucy Low
 - **Date:** Feb 9 2025
