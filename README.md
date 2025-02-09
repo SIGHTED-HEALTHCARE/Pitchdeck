@@ -1,5 +1,14 @@
 # Pitchdeck
 
+Demo
+https://youtu.be/fiG3lTwnomE
+
+Pitchdeck
+https://www.canva.com/design/DAGeplURqFA/BeXy3OvABSUhG1YTZloJ2A/view?utm_content=DAGeplURqFA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d3a87a2a4
+
+Github Code
+https://github.com/orgs/SIGHTED-HEALTHCARE/repositories
+
 
 
 ## **SIGHTED Pitch Deck**  
